@@ -15,3 +15,7 @@ exercise personally.
 _italic_
 
 [bing](https://bing.com)
+
+```python
+print('yes')
+```
